@@ -1,3 +1,7 @@
 tere!
 tere jälle!
+<<<<<<< HEAD
 tere tere!
+=======
+Hej
+>>>>>>> f57388d8b87a7a7b9a52ef7f3935c20d5c497d68
